@@ -36,7 +36,6 @@ During my time at Bitazza, I took full **Feature Ownership** of several critical
 ## 📫 Connect with me
 
 - **Email:** [thanatron.ther@gmail.com](mailto:thanatron.ther@gmail.com) 
-- **Phone:** 098-287-4802
 
 ---
 *"I don't just write code; I build systems that reduce friction between people and technology."*
